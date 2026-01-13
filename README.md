@@ -92,11 +92,12 @@ python main.py
 
 ## 👨‍💻 Author
 
-  - Md Danyal
+```Md Danyal```
 
 GitHub: https://github.com/Md-Danyal
 
 ⭐ If you found this project useful, feel free to star the repository!
+
 
 
 ---
