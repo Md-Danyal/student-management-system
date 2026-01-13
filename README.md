@@ -38,14 +38,12 @@ It demonstrates **real-world OOP design** by separating responsibilities across 
 ## 🗂️ Project Structure
 
 student-management-system/
-│
-├── base.py
-├── student.py
-├── management.py
-├── main.py
-├── README.md
-└── .gitignore
-
+├── base.py # Abstract base class (abstraction)
+├── student.py # Student class implementation
+├── management.py # Student management logic
+├── main.py # Application entry point
+├── README.md # Project documentation
+└── .gitignore # Git ignore file
 
 ---
 
@@ -101,4 +99,5 @@ GitHub: https://github.com/Md-Danyal
 
 
 ---
+
 
